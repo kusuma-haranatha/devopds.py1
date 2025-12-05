@@ -1,5 +1,5 @@
-public class A3{
+public class A31{
 public static void main(String[] args){
-System.out.println("devops lab");
+System.out.println("devops lab11");
 }
 }
